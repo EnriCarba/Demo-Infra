@@ -1,7 +1,7 @@
 # Azure Kubernetes Service and Infrastructure Demo
 The purpose of this demo is to show the power of the cloud, combined with Terraform, which is an infrastructure of code tool that helps us to provision and maintain cloud resources. During this demo I used Azure Kubernetes Service to deploy an application with Front and Backend.
 
-This demo serves several important purposes, justifying the effort put into its creation:
+This demo serves several purposes, listed below:
 
 **1- Efficient Deployment:** By utilizing Terraform, I can define the entire infrastructure needed for this demo in code. 
 
