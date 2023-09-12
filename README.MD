@@ -4,8 +4,11 @@ The purpose of this demo is to show the power of the cloud, combined with Terraf
 This demo serves several important purposes, justifying the effort put into its creation:
 
 **1- Efficient Deployment:** By utilizing Terraform, I can define the entire infrastructure needed for this demo in code. 
+
 **2- Reproducibility:** This repository demonstrates how to consistently and accurately reproduce the entire infrastructure environment. 
+
 **3- Version Control:** Building the demo infrastructure in code and hosting it in a repository allows for easy versioning and collaboration. 
+
 **4- Automation Insights:** This demo can be designed to reveal how automated deployment, scaling, and management can greatly enhance operational efficiency and reliability. 
 
 The creation of this repository using Terraform, Azure, and Azure Kubernetes Service is to illustrate the path from initial deployment to horizontal scaling, showing insights into managing real-world scenarios. 
